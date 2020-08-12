@@ -1,3 +1,4 @@
 pattern
 test git merger no ff
 merge
+3lines
