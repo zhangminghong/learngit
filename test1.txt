@@ -2,4 +2,5 @@ pattern
 test git merger no ff
 merge22
 3lines
+partner
 
